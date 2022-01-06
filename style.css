@@ -3,6 +3,11 @@ h1{
     font-size: 50px;
     font-weight: 900;
 }
+h2{
+    font-family: 'Audiowide', cursive;
+    font-size: 30px;
+    font-weight: 900;
+}
 p{
     font-family: 'Courier Prime', monospace;
     font-size: 20px;
@@ -27,7 +32,36 @@ a{
 }
 .first{
     display: flex;
-    padding: 7% 5%;
+    padding: 7% 12%;
+}
+.second{
+    display: flex;
+    padding: 2% 12%;
+}
+#second1{
+    border: 1px solid beige;
+    border-radius: 40px;
+    padding: 5% 5%;
+    padding-right: 10%;
+    background-color: rgba(177, 232, 240, 0.644);
+    height: 85%;
+}
+#second2{
+    border: 1px solid beige;
+    border-radius: 40px;
+    padding: 5% 5%;
+    margin-left: 5%;
+    background-color: rgba(228, 179, 176, 0.644);
+    height: 85%;
+}
+#second3{
+    border: 1px solid beige;
+    border-radius: 40px;
+    padding: 5% 5%;
+    margin-left: 5%;
+    width: 3000px;
+    background-color: rgba(250, 243, 203, 0.733);
+    height: 575px;
 }
 #mission2022{
     color:rgb(0, 113, 219);
@@ -37,4 +71,18 @@ a{
     border-image: linear-gradient(rgb(111, 0, 255),rgb(111, 0, 255));
     border-image-slice: 1;
     padding-left: 10px;
+}
+.alignment{
+    text-align: center;
+}
+#color-2022{
+    color:rgb(0, 113, 219);
+}
+.illustration{
+    width: 65%;
+    align-content: center;
+}
+.illustration1{
+    width: 80%;
+    align-content: center;
 }
