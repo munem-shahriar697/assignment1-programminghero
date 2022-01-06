@@ -1,0 +1,40 @@
+h1{
+    font-family: 'Audiowide', cursive;
+    font-size: 50px;
+    font-weight: 900;
+}
+p{
+    font-family: 'Courier Prime', monospace;
+    font-size: 20px;
+    text-align: justify;
+    font-weight: 600;
+}
+
+a{
+    text-decoration: none;
+    color:white;
+    background-image: linear-gradient(rgb(0, 119, 255),rgb(0, 119, 255));
+    padding: 10px 40px;
+    font-weight: 700;
+    border-radius: 5px;
+    font-family: 'Audiowide', cursive;
+    margin-top: auto;
+}
+.first-photo{
+    width: 80%;
+    padding-top: 0%;
+    padding-left: 20%;
+}
+.first{
+    display: flex;
+    padding: 7% 5%;
+}
+#mission2022{
+    color:rgb(0, 113, 219);
+}
+#line-border{
+    border-left: 7px solid;
+    border-image: linear-gradient(rgb(111, 0, 255),rgb(111, 0, 255));
+    border-image-slice: 1;
+    padding-left: 10px;
+}
