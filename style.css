@@ -73,7 +73,7 @@ p{
     color:rgb(0, 183, 255);
 }
 #line-border{
-    border-left: 7px solid;
+    border-left: 3px solid;
     border-image: linear-gradient(rgb(111, 0, 255),rgb(111, 0, 255));
     border-image-slice: 1;
     padding-left: 10px;
@@ -111,7 +111,7 @@ p{
     padding: 2% 12%;
     background-image: url(images/shape-1.png);
     background-size: 10%;
-    background-position: 92% 0%;
+    background-position: 92% 55%;
     background-repeat: no-repeat;
 }
 #fourth-border{
